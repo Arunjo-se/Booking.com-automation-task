@@ -1,0 +1,24 @@
+{
+    "testFeature": "Resort Filtering high rating and low price",
+    "testCase": "Booking.com Search and Scrape Top Result",
+    "runDate": "2026-04-18T16:36:24.554Z",
+    "browser": "chromium",
+    "targetCriteria": "Highest Property Rating → Lowest Price",
+    "hotelName": "La Estoria, Goa - IHCL SeleQtions , A Taj Property",
+    "rating": 5,
+    "pricePerNight": 6367,
+    "totalStayPrice": 31836,
+    "nights": 5,
+    "city": "N/A",
+    "detailedAddress": "Bamonavaddo, Bardez, 403515 Candolim, India",
+    "listingPageURL": "https://www.booking.com/searchresults.html?label=gen173nr-10CAEoggI46AdIM1gEaGyIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Aprljs8GwAIB0gIkMWZiYWFiODUtMTEwNy00MmE2LWJmY2ItOWQ0MmJhZTA4MWM02AIB4AIB&aid=304142&ss=Goa%2C+India&efdco=1&lang=en-us&dest_id=4127&dest_type=region&ac_position=0&ac_click_type=b&ac_langcode=xu&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=67c4748dac73000d&checkin=2026-05-20&checkout=2026-05-25&group_adults=2&no_rooms=1&group_children=2&age=5&age=3&order=class_and_price&nflt=ht_id%3D206",
+    "detailPageURL": "https://www.booking.com/hotel/in/country-inn-amp-suites-by-carlson-goa-candolim.html?label=gen173nr-10CAEoggI46AdIM1gEaGyIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Aprljs8GwAIB0gIkMWZiYWFiODUtMTEwNy00MmE2LWJmY2ItOWQ0MmJhZTA4MWM02AIB4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-25&dest_id=4127&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=2&req_children=2&age=5&req_age=5&age=3&req_age=3&hpos=1&hapos=1&sr_order=class_and_price&nflt=ht_id%3D206&srpvid=920174a3a2ea035c&srepoch=1776530166&all_sr_blocks=40862706_409336248_2_1_0_1207561&highlighted_blocks=40862706_409336248_2_1_0_1207561&matching_block_id=40862706_409336248_2_1_0_1207561&sr_pri_blocks=40862706_409336248_2_1_0_1207561_3183600&from=searchresults",
+    "rawWinnerData": {
+        "name": "La Estoria, Goa - IHCL SeleQtions , A Taj Property",
+        "city": "N/A",
+        "rating": 5,
+        "pricePerNight": 31836,
+        "url": "https://www.booking.com/hotel/in/country-inn-amp-suites-by-carlson-goa-candolim.html?label=gen173nr-10CAEoggI46AdIM1gEaGyIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Aprljs8GwAIB0gIkMWZiYWFiODUtMTEwNy00MmE2LWJmY2ItOWQ0MmJhZTA4MWM02AIB4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-25&dest_id=4127&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=2&req_children=2&age=5&req_age=5&age=3&req_age=3&hpos=1&hapos=1&sr_order=class_and_price&nflt=ht_id%3D206&srpvid=920174a3a2ea035c&srepoch=1776530166&all_sr_blocks=40862706_409336248_2_1_0_1207561&highlighted_blocks=40862706_409336248_2_1_0_1207561&matching_block_id=40862706_409336248_2_1_0_1207561&sr_pri_blocks=40862706_409336248_2_1_0_1207561_3183600&from=searchresults",
+        "address": "Bamonavaddo, Bardez, 403515 Candolim, India"
+    }
+}

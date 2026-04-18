@@ -1,0 +1,24 @@
+{
+    "testFeature": "Hotel Filtering high rating and low price",
+    "testCase": "Booking.com Search and Scrape Top Result",
+    "runDate": "2026-04-18T16:30:42.408Z",
+    "browser": "chromium",
+    "targetCriteria": "Highest Property Rating → Lowest Price",
+    "hotelName": "village cottages",
+    "rating": 5,
+    "pricePerNight": 3080,
+    "totalStayPrice": 15400,
+    "nights": 5,
+    "city": "N/A",
+    "detailedAddress": "shivam bnb mandrem sawantwada mandrem goa, 403527 Parxem, IndiaAfter booking, all of the property’s details, including telephone and address, are provided in your booking confirmation and your account.",
+    "listingPageURL": "https://www.booking.com/searchresults.html?label=gen173nr-10CAEoggI46AdIM1gEaGyIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Avjijs8GwAIB0gIkNjNiN2M0NjYtZWQ5NS00NDBhLTgxZDMtYTM3YWIyNTYwZThk2AIB4AIB&aid=304142&ss=Goa%2C+India&efdco=1&lang=en-us&dest_id=4127&dest_type=region&ac_position=0&ac_click_type=b&ac_langcode=xu&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=54b473fca0ba0eda&checkin=2026-05-20&checkout=2026-05-25&group_adults=2&no_rooms=1&group_children=2&age=5&age=3&order=class_and_price&nflt=ht_id%3D204",
+    "detailPageURL": "https://www.booking.com/hotel/in/village-cottages-north-goa.html?label=gen173nr-10CAEoggI46AdIM1gEaGyIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Avjijs8GwAIB0gIkNjNiN2M0NjYtZWQ5NS00NDBhLTgxZDMtYTM3YWIyNTYwZThk2AIB4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-25&dest_id=4127&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=2&req_children=2&age=5&req_age=5&age=3&req_age=3&hpos=1&hapos=1&sr_order=class_and_price&nflt=ht_id%3D204&srpvid=bd40740bbc28054e&srepoch=1776529833&all_sr_blocks=1541758201_425558559_2_0_0%2C1541758201_425558559_2_0_0&highlighted_blocks=1541758201_425558559_2_0_0%2C1541758201_425558559_2_0_0&matching_block_id=1541758201_425558559_2_0_0&sr_pri_blocks=1541758201_425558559_2_0_0__770000%2C1541758201_425558559_2_0_0__770000&from=searchresults",
+    "rawWinnerData": {
+        "name": "village cottages",
+        "city": "N/A",
+        "rating": 5,
+        "pricePerNight": 15400,
+        "url": "https://www.booking.com/hotel/in/village-cottages-north-goa.html?label=gen173nr-10CAEoggI46AdIM1gEaGyIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Avjijs8GwAIB0gIkNjNiN2M0NjYtZWQ5NS00NDBhLTgxZDMtYTM3YWIyNTYwZThk2AIB4AIB&aid=304142&ucfs=1&arphpl=1&checkin=2026-05-20&checkout=2026-05-25&dest_id=4127&dest_type=region&group_adults=2&req_adults=2&no_rooms=1&group_children=2&req_children=2&age=5&req_age=5&age=3&req_age=3&hpos=1&hapos=1&sr_order=class_and_price&nflt=ht_id%3D204&srpvid=bd40740bbc28054e&srepoch=1776529833&all_sr_blocks=1541758201_425558559_2_0_0%2C1541758201_425558559_2_0_0&highlighted_blocks=1541758201_425558559_2_0_0%2C1541758201_425558559_2_0_0&matching_block_id=1541758201_425558559_2_0_0&sr_pri_blocks=1541758201_425558559_2_0_0__770000%2C1541758201_425558559_2_0_0__770000&from=searchresults",
+        "address": "shivam bnb mandrem sawantwada mandrem goa, 403527 Parxem, IndiaAfter booking, all of the property’s details, including telephone and address, are provided in your booking confirmation and your account."
+    }
+}

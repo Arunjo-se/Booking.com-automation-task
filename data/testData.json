@@ -1,0 +1,12 @@
+{
+  "searchData": {
+    "destination": "Goa, India",
+    "checkIn": "2026-05-20",
+    "checkOut": "2026-05-25",
+    "adults": 2,
+    "children": [
+      5,
+      3
+    ]
+  }
+}
