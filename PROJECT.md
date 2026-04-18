@@ -98,7 +98,7 @@ npm run allure:open
 rm -r -fo allure-results allure-report
 ```
 
-(try this not woking above code: 
+(If this doesn’t work, try the code below.
 
 Step 1: npm run
 
