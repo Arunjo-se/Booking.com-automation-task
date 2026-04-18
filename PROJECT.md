@@ -103,13 +103,23 @@ rm -r -fo allure-results allure-report
 Step 1: npm run
 
 Step 2: 
+
 npx playwright test resort.spec.js --project=chromium --headed
+
 Step 3:
+
 npx playwright test allProperty.spec.js --project=chromium --headed
+
 Step 4 : 
+
 npx playwright test hotel.spec.js --project=chromium --headed
-Step 5: 
+
+Step 5:
+
 npm run allure:generate       
+
 Step 6: 
-allure open allure-report         
+
+allure open allure-report    
+
 )
